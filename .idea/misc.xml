@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sanro/Documents/Company/Mobileware/PalacioDeHierro/Development/consignmentnote-master/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/sanro/Documents/Company/Mobileware/PalacioDeHierro/Development/consignmentnote-master/app/src/main/res/layout/fragment_add_consignments.xml" value="0.3489583333333333" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_baseline_build_24.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_baseline_radio_button_unchecked_24.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_add_consignments.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_config_expiration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_config_tabs.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_configurations.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_pdf_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/fragment_repository.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/item_add_consignment_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/item_connlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/item_consigment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/item_pdf_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/message_dialog_add_connection.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/message_dialog_config_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/layout/message_dialog_simple.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Work/Prologisys/Palacio/Android/ConsignmentNote/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

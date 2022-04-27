@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Carta porte</string>
+    <string name="credential">Escanea tu credencial</string>
+    <string name="unit">Unidad</string>
+    <string name="consignament">Carta porte*</string>
+    <string name="enterCode">Escanea el código del producto</string>
+    <string name="enterConsignment">Escanea la carta porte</string>
+    <string name="logo">Logo</string>
+
+    <!-- Inbound Department Fragment -->
+    <string name="configuration">Configuración</string>
+    <string name="profile">Perfil</string>
+    <string name="url">Url</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="conection">Conexión</string>
+    <string name="selectCurrentProfile">Seleccionar perfil:</string>
+    <string name="days">Dias</string>
+
+    <!-- Titles -->
+    <string name="titleLogin">Inicio de sesión</string>
+    <string name="titleConfigurations">Configuraciones</string>
+    <string name="titleConnections">Conexiones</string>
+    <string name="titleExpiration">Borrado automatico</string>
+    <string name="titleAddConn">Agregar conexión</string>
+    <string name="titleSelectFilter">Seleccionar filtro</string>
+    <string name="titleSearchConsignments">Buscar cartas porte</string>
+    <string name="titleDownloadedConsignments">Cartas porte guardadas</string>
+    <string name="defineExpiration">Defina el tiempo de almacenamiento máximo de las cartas porte</string>
+
+
+    <!-- Butons texts -->
+    <string name="btnCancel">Cancelar</string>
+    <string name="btnConfirm">Confirmar</string>
+    <string name="btnContinue">Continuar</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnAdd">Agregar</string>
+    <string name="btnDownload">Descargar</string>
+    <string name="btnConsultPDF">Consultar PDF</string>
+    <string name="btnSkip">Omitir</string>
+    <string name="btnSend">Enviar</string>
+    <string name="btnPending">Pendientes</string>
+    <string name="btnAssorts">Surtidas</string>
+
+    <!-- Totals texts -->
+    <string name="totalSKU">SKU (%1$s)</string>
+    <string name="totalQuantity">Total: (%1$s)</string>
+
+    <!--  Custom text -->
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirmDeleteConsignment">¿Desea borrar la carta porte %1$s?</string>
+
+    <string name="globalConfigs">glConfigs</string>
+    <string name="globalExpiration">glExpiration</string>
+</resources>

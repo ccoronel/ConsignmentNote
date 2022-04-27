@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_host"
+    app:startDestination="@id/loginFragment">
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.eahc.consignmentnote.fragments.login.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_addConsignmentsFragment"
+            app:destination="@id/addConsignmentsFragment"
+            app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_loginFragment_to_configTabs"
+            app:destination="@id/configTabs" />
+    </fragment>
+    <fragment
+        android:id="@+id/configurationsFragment"
+        android:name="com.eahc.consignmentnote.fragments.configurations.ConfigurationsFragment"
+        android:label="ConfigurationsFragment" />
+    <fragment
+        android:id="@+id/repositoryFragment"
+        android:name="com.eahc.consignmentnote.fragments.respository.RepositoryFragment"
+        android:label="fragment_repository"
+        tools:layout="@layout/fragment_repository" >
+        <action
+            android:id="@+id/action_repositoryFragment_to_pdfViewFragment"
+            app:destination="@id/pdfViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/pdfViewFragment"
+        android:name="com.eahc.consignmentnote.fragments.pdfview.PdfViewFragment"
+        android:label="PdfViewFragment" >
+        <argument
+            android:name="consignmentNo"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/addConsignmentsFragment"
+        android:name="com.eahc.consignmentnote.fragments.addConsignments.AddConsignmentsFragment"
+        android:label="AddConsignmentsFragment" >
+        <action
+            android:id="@+id/action_addConsignmentsFragment_to_repositoryFragment"
+            app:destination="@id/repositoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/configTabs"
+        android:name="com.eahc.consignmentnote.fragments.configurations.ConfigTabs"
+        android:label="ConfigTabs" />
+</navigation>

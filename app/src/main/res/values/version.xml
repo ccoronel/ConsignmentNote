@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Control Versions
+    1.0a => 09.06.2021 - EAHC "Primera versión estable enviada a pruebas"
+    1.0b => 22.06.2021 - EAHC "Ajuste formato de la fecha a español"
+    1.0c => 25.11.2021 - eahc "Auste solicitud cambio EF 18.11.2021
+    1.0d => 30.11.2021 - EAHC "Borrado espacio fecha busqueda cartas porte
+    1.0e => 01.12.2021 - EAHC "Ajuste select all agregar carta porte y textos
+    1.0f => 01.12.2021 - EAHC "Ajuste mensaje error no cartas porte, cambio icono 1
+    1.0g => 02.12.2021 - EAHC "Ajuste borrado caducados
+    -->
+    <string name="version">1.0g</string>
+</resources>

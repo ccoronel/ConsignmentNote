@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <data>
+        <variable
+            name="expirationViewModel"
+            type="com.eahc.consignmentnote.fragments.configurations.ConfigurationExpirationViewModel" />
+    </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top|center"
+        android:orientation="vertical"
+        tools:context=".fragments.configurations.ConfigWarehouse">
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_margin="15dp"
+            android:text="@string/defineExpiration" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/iCenterLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:hint="@string/days">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/iExpiration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="true"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLines="1"
+                tools:ignore="TouchTargetSizeCheck" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnConfirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btnConfirm"
+            />
+
+    </LinearLayout>
+</layout>

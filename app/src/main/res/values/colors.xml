@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FCBA07</color>
+    <color name="colorPrimaryDark">#e8ab07</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="green">#33cc33</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="greenMenuPalacio">#92D050</color>
+    <color name="orangeMenuPalacio">#FFC000</color>
+    <color name="blueMenuPalacio">#9BC2E6</color>
+    <color name="yellowMenuPalacio">#FFFF00</color>
+    <color name="grayMenuPalacio">#D9D9D9</color>
+    <color name="brownMenuPalacio">#CF6401</color>
+    <color name="redLight">#FFCCCB</color>
+</resources>
